@@ -1,0 +1,21 @@
+{
+    "api_key": "THE_API_KEY", 
+    "desired_directory": "/Users/henrychang/sys_two_ai",
+    "__INPUT": "input section",
+    "input_dir": "input",
+    "scaler_label_agg_file": "data_4_scaler_label_agg.csv",
+    "fine_tune_file": "fine_tune_data.jsonl",
+    "data_4_modeling": "data_4_modeling.csv",
+    "input_data_4_transform": "input_data_4_transform.csv",
+    "__OUTPUT": "output section",
+    "output_dir": "output",
+    "missing_dict": "missing_dict.pkl",
+    "scaler": "scaler.pkl",
+    "label_encoders": "label_encoders.pkl",
+    "aggregated_features": "aggregated_features.pkl",
+    "fine_tune_id_file": "fine_tune_id.txt",
+    "vectorizer": "vectorizer.pkl",
+    "isolation_forest_model": "isolation_forest_model.pkl",
+    "transform_results": "enriched_data.csv",
+    "detection_results": "detection_results.csv"
+}
