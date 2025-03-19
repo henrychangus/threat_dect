@@ -1,6 +1,6 @@
 {
     "api_key": "THE_API_KEY", 
-    "desired_directory": "/Users/henrychang/sys_two_ai",
+    "desired_directory": "/Users/henrychang/sys_security_ai",
     "__INPUT": "input section",
     "input_dir": "input",
     "scaler_label_agg_file": "data_4_scaler_label_agg.csv",
