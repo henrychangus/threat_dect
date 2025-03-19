@@ -11,7 +11,7 @@ def get_logger():
 
 logger = get_logger()
 
-config_file_loc = '/Users/henrychang/sys_two_ai/config/config.json'
+config_file_loc = '/Users/henrychang/sys_security_ai/config/config.json'
 
 def check_and_set_device():
     try:
