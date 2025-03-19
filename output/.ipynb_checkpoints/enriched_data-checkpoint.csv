@@ -1,0 +1,268 @@
+user_id,login_attempts,failed_login_attempts,session_duration,data_transferred,access_sensitive_files,log_text,anomaly,anomaly_score,anomaly_label,classification,login_attempts_agg,failed_login_attempts_agg,session_duration_agg,data_transferred_agg,access_sensitive_files_agg,count,threat_detection
+2,0.5,0.0,0.5,1.0,1.0,User attempted to login multiple times.,1.0,0.5139990901122737,Normal,NEGATIVE,1.4375,0.5,30.250000000000004,95.45,1.0,4.0,Threat
+1,0.75,1.0,0.25,0.19999999999999996,1.0,User downloaded sensitive files.,1.0,0.4375,Normal,NEGATIVE,2.4,1.0,30.2,66.06,0.4,5.0,Threat
+2,0.25,1.0,0.5,0.8,1.0,User session timed out.,1.0,0.4548675092078867,Normal,NEGATIVE,1.4375,0.5,30.250000000000004,95.45,1.0,4.0,Threat
+3,0.5,0.0,0.0,0.6000000000000001,0.0,User transferred data to external device.,1.0,0.5139990901122737,Normal,NEGATIVE,1.5,0.0,40.0,103.53333333333333,0.0,3.0,Threat
+1,0.25,1.0,0.75,0.10000000000000009,0.0,User session extended.,1.0,0.4980155009947376,Normal,NEGATIVE,2.4,1.0,30.2,66.06,0.4,5.0,Threat
+2,0.4917796134312023,0.0,0.4921342825211794,1.0050052667908298,1.0815088866007476,User attempted to login multiple times. Login: uid=76561198011668563 type=UID lvUserId=2097155437 mode=RANDOM attr=userInfoNoData 17-9-19 16:,1.01593940117691,0.4849667885060465,Normal,NEGATIVE,1.4781951418490058,0.5158814611524675,28.145199966847727,103.2507304492051,0.9984467880524521,3.636160125921447,Threat
+2,0.5450738769562583,0.0,0.5083483151513116,0.9009620224527779,1.0913677218709943,User attempted to login multiple times. [14:54:21] [Client thread/INFO]: [CHAT] [Hero] BdoubleO100: wtf [14:54:31] [Client thread/INFO]: [CHAT] [,0.9646775399167188,0.5490811900822672,Normal,NEGATIVE,1.559423385207674,0.5190065417212933,29.77340045873136,93.34939447769939,0.9825499521212053,3.8394961440806328,Threat
+1,0.6852732386536123,0.9745112415027821,0.22610871761437495,0.1958834527972366,0.9588002638327167,"User downloaded sensitive files.
+
+
+1. You received an alert by an ad-blocking application indicating that an alert has been sent to you about malware downloading activities in your area. This warning requires that you confirm your confirmation of the transaction. The transaction",1.0611613032191254,0.4495310187814054,Normal,NEGATIVE,2.183358127610224,1.0535375068606434,30.70233755944602,64.2957242560943,0.42726120180391636,4.865129108469921,Threat
+1,0.7328707986135806,1.08825502510647,0.23983491776826232,0.193015561954044,0.993341652762728,"User downloaded sensitive files.
+
+File Name Length Date Access
+
+(?) File Name Length Date Access
+
+(?) File Name Length Date Access
+
+(?) File Name Length Date Access
+
+(?) File Name Length
+
+1/",1.0435400754281747,0.4271427837812187,Normal,NEGATIVE,2.2271878991577476,0.9136013895590861,29.146921179652853,67.59600045936699,0.40943695123049406,5.251818184130644,Threat
+2,0.2527079386858996,1.0282292682130447,0.49925162314158084,0.8655104593697669,0.9749221400640725,"User session timed out.
+
+{A1C5D5D2-E9A7-11D2-8BB7-00A0C923B87F} in the system account is currently logged into the machine",0.9007520338208856,0.4938259084527798,Normal,NEGATIVE,1.2969486817066602,0.4767563008115819,32.81242226896401,101.60964318911616,0.9618850441384205,4.01032550412216,Threat
+2,0.2548369131913447,0.9358967299756085,0.47640631203307954,0.7607603433475228,1.028112895956603,"User session timed out.
+
+Error messages
+
+Get the previous status of the given user session. The user session had an error setting that was the original. See this post on the forums for more details on how to recreate a lost or restored",0.952981913402858,0.4227591300429151,Normal,NEGATIVE,1.5494715267600254,0.4644498951236925,32.786083843722295,95.06323169564915,1.0084308770581487,4.164030636128268,Threat
+3,0.4878470847212306,0.0,0.0,0.578372937060001,0.0,"User transferred data to external device.
+
+When the user's iOS device's microphone detects a request, the system immediately transfers the user's microphone information to the external device and displays it on the user's display screen (if the device has a similar",0.9388346634059873,0.46589052676960185,Normal,NEGATIVE,1.5953974337821346,0.0,37.75295534798606,100.43028243186465,0.0,3.012219460536205,Threat
+3,0.4962189747414614,0.0,0.0,0.5472507614170556,0.0,"User transferred data to external device.
+
+The data transfer device 812 also includes a storage interface 818 that allows for the transfer of data between data storage devices 810 and the processor device 602. In some embodiments, the storage interface 8",0.9803229031559435,0.5532550580275734,Normal,NEGATIVE,1.5675890456798829,0.0,43.15834532874256,93.70460202214377,0.0,2.7465261981182763,Threat
+1,0.264758566554438,1.0718689562466404,0.8056426407905355,0.09168600010221083,0.0,User session extended. [4f79f7c0af] * plugins/sudoers/env.c: Don't re-enumerate the SELinux flags that are set when we exec the command. We can still use,1.081510839745523,0.5255291634039385,Normal,NEGATIVE,2.461129751369905,1.0155380407295451,27.976763814162133,68.31182855844278,0.430236770664562,4.709897218052246,Threat
+1,0.2678029499950726,1.0241080765809354,0.7971515926036845,0.09885879316098302,0.0,"User session extended.
+
+(defmethod call-with-user-session (arg) (setq session (session->user-session arg)) (user-session-write-string (make-string) (progn (or (",0.9460906761555657,0.45334283420432125,Normal,NEGATIVE,2.581370451988778,1.0876938356198413,33.17221655209726,60.80333346326796,0.41072205603886724,4.624063021326665,Threat
+2,0.5,0.0,0.5,1.0,1.0,User attempted to login multiple times.,1.0,0.5139990901122737,Normal,NEGATIVE,1.4375,0.5,30.250000000000004,95.45,1.0,4.0,Threat
+1,0.75,1.0,0.25,0.19999999999999996,1.0,User downloaded sensitive files.,1.0,0.4375,Normal,NEGATIVE,2.4,1.0,30.2,66.06,0.4,5.0,Threat
+2,0.25,1.0,0.5,0.8,1.0,User session timed out.,1.0,0.4548675092078867,Normal,NEGATIVE,1.4375,0.5,30.250000000000004,95.45,1.0,4.0,Threat
+3,0.5,0.0,0.0,0.6000000000000001,0.0,User transferred data to external device.,1.0,0.5139990901122737,Normal,NEGATIVE,1.5,0.0,40.0,103.53333333333333,0.0,3.0,Threat
+1,0.25,1.0,0.75,0.10000000000000009,0.0,User session extended.,1.0,0.4980155009947376,Normal,NEGATIVE,2.4,1.0,30.2,66.06,0.4,5.0,Threat
+2,0.4966127619407199,0.0,0.5452441933448697,0.9380940322113462,1.0350197907215586,"User attempted to login multiple times.
+
+Username is not in correct format.
+
+Password is lowercase.
+
+The username must be uppercase.
+
+No user name is entered. Users on the system must be of the",1.0651751833530392,0.5176801669376735,Normal,NEGATIVE,1.5783642310882795,0.4586301492370966,33.151280596171915,99.16513196507819,0.9834997883606351,3.933300996519916,Threat
+2,0.48561191019886557,0.0,0.4778152065131923,1.0600320585052239,1.0765205101505324,"User attempted to login multiple times.
+
+Your user profile doesn't appear to be valid.
+
+Your email address is invalid.
+
+You appear to be using an invalid email address.
+
+You have an unrecognized email address.
+",0.9478850271917292,0.5164088620134999,Normal,NEGATIVE,1.379716897605604,0.5345059391193914,28.34282959376155,100.73931599721791,0.9479466817158617,3.8085983249931687,Threat
+1,0.6766009202698393,1.0428495868372154,0.25613982760205956,0.20561777477998686,1.0053601515648571,"User downloaded sensitive files.
+
+As is well known, the file-sharing networks of the web are often accessed through anonymizing proxies like TOR. So, if it's downloaded from this particular proxy, Tor won't be able to determine the true",0.9193305824923061,0.44424163553220203,Normal,NEGATIVE,2.2823086083934574,1.0671680350018222,28.78571063327842,64.61945653340965,0.38120495360077106,5.1344129886058205,Threat
+1,0.7720287051980075,0.9077390362527177,0.23395887140916594,0.1978794454946361,0.9515556798759975,"User downloaded sensitive files.
+
+The FBI also claims (but does not specify) that the servers in Russia in the case of both DNC and Podesta accounts were infected by the Russian government.
+
+Criminal investigators are now looking more closely at the",0.9289236166684686,0.465567333273807,Normal,NEGATIVE,2.563361701786286,0.9948240622098881,28.705083865945127,67.10361922546659,0.41069204458068403,4.9701598615733875,Threat
+2,0.2654216033536711,1.032589252674425,0.5103136824495891,0.8161773868788258,0.943636362899762,"User session timed out.
+
+# Do something
+
+# Do work
+
+# Run a new instance of PowerShell (requires the same environment as the previous one that was interrupted)
+
+Get-PSSession -SessionName "" SessionName """,1.0427078788846849,0.4984969331824329,Normal,NEGATIVE,1.401592973732968,0.5168240069196849,28.698445464168167,86.55866293265765,1.0054686709024436,3.6401957647591776,Threat
+2,0.24485580657135156,0.9832763817421644,0.5163628665345137,0.8773158884663982,1.078727813543447,"User session timed out.
+
+The result:
+
+What? If the client has timed out during the transfer, what should the server do now? What about if the client tries to transfer files that are too small to be transmitted in a reasonable",1.0551004111491638,0.48935975870856807,Normal,NEGATIVE,1.568137837569221,0.5220715680537398,31.6859091682368,95.96722278257812,1.0452172127872408,3.9700868914041254,Threat
+3,0.4800107912893593,0.0,0.0,0.6137939874105918,0.0,"User transferred data to external device.
+
+Please note that all data transferred by this method is your own. If you wish to share your information, you may sign in in the game with your Battlelog account and use the Share button on the left",1.011492237837593,0.5538741586069281,Normal,NEGATIVE,1.3742233586523578,0.0,40.27029923599094,108.67645644069998,0.0,2.8229964130120098,Threat
+3,0.5118582020124343,0.0,0.0,0.5597440578930238,0.0,"User transferred data to external device. See also: Upload file data to remote device
+
+Download file to remote device
+
+Download (RAR, ZIP, or GZIP) from remote device to local device. See also: Upload file data",0.9173616036278083,0.5062101856686867,Normal,NEGATIVE,1.4284696062340116,0.0,41.9666661405281,111.52789772745876,0.0,2.9036525614006714,Threat
+1,0.23164483626073373,1.0825713224305185,0.7030068782816854,0.09582099403368953,0.0,"User session extended.
+
+* Fixed a crash when switching between sessions.
+
+* Fixed an issue where a user could accidentally close the application.
+
+* Fixed an issue that prevented the application from quitting.
+
+* The lock key can",0.9201661971601535,0.4900303661226113,Normal,NEGATIVE,2.238927031350289,1.079389110386893,32.24456481165797,66.34476899203159,0.3802051387714207,4.871760206892293,Threat
+1,0.25877030301169357,0.9656507165270714,0.7578535267056288,0.10451453298196518,0.0,"User session extended.
+
+* @param string $name
+
+* @return array An array of users as a PHP object, or an array of Users if they're empty
+
+*/
+
+public function adduser ( $name = '",1.0248534889082421,0.5321810536135484,Normal,NEGATIVE,2.5684635444347417,0.9038970159062464,27.398207687856985,70.31009621321097,0.3947032988439894,4.790692665074047,Threat
+2,0.5,0.0,0.5,1.0,1.0,User attempted to login multiple times.,1.0,0.5139990901122737,Normal,NEGATIVE,1.4375,0.5,30.250000000000004,95.45,1.0,4.0,Threat
+1,0.75,1.0,0.25,0.19999999999999996,1.0,User downloaded sensitive files.,1.0,0.4375,Normal,NEGATIVE,2.4,1.0,30.2,66.06,0.4,5.0,Threat
+2,0.25,1.0,0.5,0.8,1.0,User session timed out.,1.0,0.4548675092078867,Normal,NEGATIVE,1.4375,0.5,30.250000000000004,95.45,1.0,4.0,Threat
+3,0.5,0.0,0.0,0.6000000000000001,0.0,User transferred data to external device.,1.0,0.5139990901122737,Normal,NEGATIVE,1.5,0.0,40.0,103.53333333333333,0.0,3.0,Threat
+1,0.25,1.0,0.75,0.10000000000000009,0.0,User session extended.,1.0,0.4980155009947376,Normal,NEGATIVE,2.4,1.0,30.2,66.06,0.4,5.0,Threat
+2,0.5225911859753504,0.0,0.5012004993346209,0.9147180860560867,0.9815418640485374,"User attempted to login multiple times.
+
+Password was in plain text.
+
+Passwords did not work with the database that the user was connected to.
+
+The login failed because the user's connection to the server had been lost or broken",0.972202961173002,0.5272099682890486,Normal,NEGATIVE,1.3187669460219453,0.4867962816449282,32.15469829889577,96.23701129171305,0.9707406356128593,4.293826602364253,Threat
+2,0.49984761734608246,0.0,0.5031050397885831,1.026089826660978,0.9458535256091298,User attempted to login multiple times. Error Domain was not configured to redirect back to the IP address for which the session was requested. Session expired. Request was denied. HTTP / 1.1 200 OK Content-Type : text/html; charset,1.0372877992816039,0.515460551316176,Normal,NEGATIVE,1.4305421010818524,0.4913672682770847,32.115141471918506,93.26245050933667,1.02251382784116,3.711765960179707,Threat
+1,0.781727460752079,1.0212671428938196,0.2592459977879127,0.18660571761516886,0.9904343333493919,"User downloaded sensitive files.
+
+C:\WINDOWS\system32
+
+tries to run C:\Windows\System32\adapter0.dll.
+
+C:\WINDOWS\system32\Adpf\ADPf.exe",0.9628310399858421,0.4496509001834579,Normal,NEGATIVE,2.529330645753619,0.9050648888465601,28.267576007693922,70.62502281535203,0.3878842959983893,5.190112494029923,Threat
+1,0.8117702983973203,1.0989844196472187,0.263250456553048,0.20692259431661272,1.0959189851273674,"User downloaded sensitive files. -S (Shared data, is in fact the full files with personal information as well) -v Use verbose mode. -C (Caution: Do not change this value if you are on Unix systems. Change",0.9889358337585157,0.41414711593838616,Normal,NEGATIVE,2.205081940271649,1.030514249460283,27.219440429819954,71.27089654768591,0.4280057352995263,5.18248495955612,Threat
+2,0.23484748295268096,1.0297401294063468,0.4909340660707944,0.7807520248192593,0.9675673512526443,"User session timed out.
+
+Error: No session is in a session group at this session level.
+
+Error: An invalid parameter was provided to the service initialization procedure when a session was configured.
+
+Sessions are typically managed by application",0.9567522979600894,0.4379258698663481,Normal,NEGATIVE,1.3986432960836552,0.5450327926076919,31.58139016183406,91.02387359282675,1.076170344088447,4.272160546981819,Threat
+2,0.24805073294069901,0.9538817266569573,0.5218685483621938,0.8517247283111044,1.012917628501826,"User session timed out. May be caused by other processes closing tabs, closing files)
+
+[3/3] Fixed some performance issues with the Tabbar (Tabbed view does not properly scale the window in full screen mode)
+
+[",1.035817099392761,0.4728428406505406,Normal,NEGATIVE,1.4241260469654982,0.4573873416818083,30.755704291160868,98.00324718742753,1.061208614845949,3.9640732646954904,Threat
+3,0.5040991243814514,0.0,0.0,0.5927090091141347,0.0,"User transferred data to external device.
+
+If the user is not logged into his or her Twitter account, a Twitter login prompt occurs. If the user is logged into Facebook, a Facebook login prompt occurs with the confirmation dialog box set in place.",0.9461695928892845,0.4646573283202626,Normal,NEGATIVE,1.4629218649835478,0.0,40.445531797309144,93.56440521226729,0.0,3.2844888972662334,Threat
+3,0.49938100783775435,0.0,0.0,0.6295044430412808,0.0,"User transferred data to external device.
+
+The software is executed multiple times, and different locations for those executions.
+
+(e) Software program includes code for an application program that runs in memory or other storage device.
+
+The software program",1.0060574288462347,0.5134256257103317,Normal,NEGATIVE,1.622197272408532,0.0,36.42834019062627,103.29459741129367,0.0,2.9477857699561856,Threat
+1,0.22504233691322756,0.9187231715269876,0.749696492214387,0.10865094880565734,0.0,"User session extended. When the web browser initializes, its session will be extended with the local web views and other components. After the web session is extended, any JavaScript and scripts run while the web browser is active are automatically hidden from the original session",0.970218380264065,0.4973863188812153,Normal,NEGATIVE,2.4387110373413954,1.0862666164507628,28.053657399228996,72.34240031014981,0.43711848590038305,4.743719894961646,Threat
+1,0.23336624813821563,1.0138069746571567,0.7666439396076212,0.09654464093950207,0.0,"User session extended.
+
+*/
+
+public boolean canConnectFromPuppet
+
+{
+
+
+if ( PuppetApplication. isConnectedToPuppet ( "" web "" ))
+
+{
+
+return true ;
+
+}
+
+
+",0.9926403169305388,0.45868450451213033,Normal,NEGATIVE,2.578929198668104,0.9679516148454353,32.28971161342314,63.1338006749507,0.3627860790371158,4.6813944604725215,Threat
+2,0.5,0.0,0.5,1.0,1.0,User attempted to login multiple times.,1.0,0.5147533856610416,Normal,NEGATIVE,1.4375,0.5,30.250000000000004,95.45,1.0,4.0,Threat
+1,0.75,1.0,0.25,0.19999999999999996,1.0,User downloaded sensitive files.,1.0,0.44746773883469376,Normal,NEGATIVE,2.4,1.0,30.2,66.06,0.4,5.0,Threat
+2,0.25,1.0,0.5,0.8,1.0,User session timed out.,1.0,0.47478683751399003,Normal,NEGATIVE,1.4375,0.5,30.250000000000004,95.45,1.0,4.0,Threat
+3,0.5,0.0,0.0,0.6000000000000001,0.0,User transferred data to external device.,1.0,0.5147533856610416,Normal,NEGATIVE,1.5,0.0,40.0,103.53333333333333,0.0,3.0,Threat
+1,0.25,1.0,0.75,0.10000000000000009,0.0,User session extended.,1.0,0.49385055468099404,Normal,NEGATIVE,2.4,1.0,30.2,66.06,0.4,5.0,Threat
+2,0.48055790687895145,0.0,0.46899067253590265,0.9750375444626128,1.0906670144719768,"User attempted to login multiple times. To confirm, confirm_login_confirmation was present on the account (user_id).
+
+""login_confirmation"" is an invalid user_id; it was generated during login but has not yet",1.002605346637538,0.5538723751672484,Normal,NEGATIVE,1.4787076313021261,0.4806400564183475,28.08959744554105,103.35989448131527,1.0237656419663528,4.341539711738191,Threat
+2,0.4915743717596259,0.0,0.4577096424239814,1.0317185018490473,1.0178890672591052,"User attempted to login multiple times. Error code: -1327782469 (Invalid user password)
+
+Login Failed
+
+Forgot Password
+
+Error code -1327804871 (Invalid user password or invalid password)
+
+",0.9605023413694391,0.49406833488301405,Normal,NEGATIVE,1.523653212627652,0.5452438030714425,28.916026505564183,95.55452450737802,0.9390462451594584,4.347810432273918,Threat
+1,0.7325502031658769,1.08778989525891,0.255418631849141,0.18579605385451844,1.0783335048844607,"User downloaded sensitive files.
+
+No malware
+
+No data lost through corruption
+
+Easy way to backup your settings and other data
+
+Supports USB keyless entry (FUSE)
+
+Compatible with any Windows 10 PC or Mac",0.956701244612639,0.4648539867639966,Normal,NEGATIVE,2.1854379702571074,1.0367032259430222,27.639799684415646,66.40052007679051,0.3943193915546692,5.126290191994047,Threat
+1,0.728163173866457,0.972240892704563,0.25014084043122975,0.1888382193146502,1.0579925648107122,"User downloaded sensitive files.
+
+You will see that not all security warnings are shown. However, the warning will be generated for files that have been copied through a system file and you need to go to the location where the file has been stored again",1.0819084493258637,0.49152462067726366,Normal,NEGATIVE,2.5790158002633454,0.966184933995089,30.854781193243344,68.2749826504484,0.3740504073324478,4.789955526596376,Threat
+2,0.23057684814000942,0.9346884637392514,0.486065448268483,0.8105015819087754,1.0549112291645326,"User session timed out. Error 3 = Invalid user (Cannot add a new user): Invalid user Name Not specified. User Name does not exist.
+
+User account has exceeded the maximum allowed user size. Error 4 = Invalid user (Cannot",0.9794688922327063,0.5166560071962789,Normal,NEGATIVE,1.3888247313998963,0.4668144842911188,30.62454851312497,87.06917202030351,0.9353057113501578,4.3210054513950285,Threat
+2,0.25766549900124,0.9887675914108568,0.4841475342099169,0.8129608085786725,0.9197160108459045,"User session timed out.
+
+User logged out, no session info.
+
+Session canceled to clear session details.
+
+User has given permission to the app to see more than one of your accounts.
+
+Permissions on your phone don",1.0424240670779672,0.4934308563860841,Normal,NEGATIVE,1.5358549536487978,0.47305897412254183,33.2583581222006,100.16712607255768,1.032260762869093,4.260298263288903,Threat
+3,0.4943366876689939,0.0,0.0,0.5753776183235328,0.0,"User transferred data to external device. For purposes of this section, ""External device"" means a device that has the ability to take physical screenshots of an image taken by the subject using the Camera.
+
+Note: User transferred data must comply with the",1.0392406811434254,0.521970346031445,Normal,NEGATIVE,1.3575559879380124,0.0,38.10406862078318,112.97882578019387,0.0,2.9289185753631477,Threat
+3,0.4969988218850579,0.0,0.0,0.6227789525106098,0.0,"User transferred data to external device.
+
+Device transfer does not resolve. This is a common symptom when people disconnect their accounts from Google or transfer their data to an external device that is not their primary account. Note: If your primary account that you",0.9026581797232259,0.5013221280875458,Normal,NEGATIVE,1.6031011708797673,0.0,43.824794031890434,113.42221614482317,0.0,3.1457892422145646,Threat
+1,0.25416641039770144,1.0734326572581312,0.6884657744822054,0.1081559860687032,0.0,User session extended. This is because the user's session has been expired prior to this time and it needs to be extended for the user to be able to connect to your site for the user session to be valid. Your custom user template can be used,0.9258676993183815,0.47191914741207636,Normal,NEGATIVE,2.480434762673417,1.0308556193145832,29.91195245624878,59.827147152553245,0.4012231602794306,5.020941670167845,Threat
+1,0.27349037685054073,1.013336250855941,0.7590442905807637,0.10983150561200715,0.0,"User session extended.
+
+This means that this option may be disabled or never enabled altogether.
+
+Example:
+
+/etc/default/apt-config
+
+APT_TUNING=http
+
+This is the default type",0.946541665664035,0.48089004758063497,Normal,NEGATIVE,2.19280331281385,1.0702212886904205,30.496570721327902,66.97065199124411,0.4395048516155522,5.016367520335648,Threat
+2,0.5,0.0,0.5,1.0,1.0,User attempted to login multiple times.,1.0,0.5027494289502138,Normal,NEGATIVE,1.4375,0.5,30.250000000000004,95.45,1.0,4.0,Threat
+1,0.75,1.0,0.25,0.19999999999999996,1.0,User downloaded sensitive files.,1.0,0.4383835188437121,Normal,NEGATIVE,2.4,1.0,30.2,66.06,0.4,5.0,Threat
+2,0.25,1.0,0.5,0.8,1.0,User session timed out.,1.0,0.45969857611552073,Normal,NEGATIVE,1.4375,0.5,30.250000000000004,95.45,1.0,4.0,Threat
+3,0.5,0.0,0.0,0.6000000000000001,0.0,User transferred data to external device.,1.0,0.5027494289502138,Normal,NEGATIVE,1.5,0.0,40.0,103.53333333333333,0.0,3.0,Threat
+1,0.25,1.0,0.75,0.10000000000000009,0.0,User session extended.,1.0,0.4889201982451419,Normal,NEGATIVE,2.4,1.0,30.2,66.06,0.4,5.0,Threat
+2,0.48292418787419317,0.0,0.5261716251779675,0.9458634326313916,0.9126398469189296,"User attempted to login multiple times. Failed and logged out.
+
+A ""Server Error"" event was generated and sent out during authentication process. If you attempt to log back in after this event, your session will be closed. The system will provide",0.9820239006033012,0.49521788455835736,Normal,NEGATIVE,1.484162769919173,0.4692076034248609,29.394845917814102,92.75698884756139,1.0923249522046905,3.7764107283211152,Threat
+2,0.45118585522319826,0.0,0.4542106967008088,0.9264767486323362,0.9266869800532123,"User attempted to login multiple times.
+
+
+We can't let those things happen to us.
+
+
+We strongly advise customers and businesses to use SSL to secure their communications using https. As security is a top priority, SSL is the way to go",0.9240221216833474,0.5419858737777714,Normal,NEGATIVE,1.503065905408119,0.5458971273193971,30.31552000977566,92.95529499084776,1.0340262611613875,4.178193462943033,Threat
+1,0.8001078914953593,1.0088374638583089,0.235677289792606,0.1988924483442804,1.076064581279135,"User downloaded sensitive files.
+
+If both versions of the malicious program are installed on the same machine to the same user, the attack will not result in an additional infection because the first version of the application will be removed after the other is removed,",0.9079419594607592,0.4593581336287976,Normal,NEGATIVE,2.205297681981788,1.0193695721986844,28.523811947472577,67.40505083821884,0.37676100566612997,4.529493009630868,Threat
+1,0.7895654344678161,1.0482247582168873,0.23017296189345887,0.19748550926158476,0.9412414579480722,User downloaded sensitive files. This can be accomplished through using the File Transfer Protocol (FTP) to transfer files while having the remote computer be controlled from an outside computer using a standard home keyboard. Once the user connects the remote computer without the need of,1.0803678940314418,0.4347049847356585,Normal,NEGATIVE,2.34736775834098,1.017480821291653,29.43315057424841,67.74588130241628,0.3770586221007801,5.2713960131526925,Threat
+2,0.24085160688810284,1.0536449463751165,0.538546266980959,0.8167367563090884,0.9943678099058554,"User session timed out.
+
+It seems to have taken a while for things to come together, though. The update has now been pushed to our servers and will be deployed shortly to those who have already installed it. We will provide an update as",0.9986988168347745,0.48542823564512655,Normal,NEGATIVE,1.5132520711591135,0.5430754356183481,28.829329640999195,96.14440266846005,1.045884543715354,4.18382745042492,Threat
+2,0.25530214228187387,0.9917213209997602,0.48753316502295724,0.8635923791298241,0.9761907052561696,"User session timed out.
+
+[12:04:45] Network - MP/NET/STUB_LOG_PATH,STUB_LOG_FILTER: c_network_message_handler::handle_out_of_band",0.9164089054244198,0.5050515495610628,Normal,NEGATIVE,1.425455448448357,0.5325729288508673,30.14098795891423,94.32480934061319,1.076859409468551,3.7745255940096913,Threat
+3,0.5231937654153557,0.0,0.0,0.5531340801114075,0.0,"User transferred data to external device. When the user transfers any app from the user's phone, or when it arrives on the external device through an API, the app may perform any actions the user could execute. Thus, the external device may be an",0.9360554784429457,0.5266347134776252,Normal,NEGATIVE,1.352857823303689,0.0,36.188755772184166,110.91624145711052,0.0,2.886092275549052,Threat
+3,0.46806868147449643,0.0,0.0,0.5899512811214919,0.0,"User transferred data to external device. The data transmission occurs between the device and the storage device, such as network, data carrier, or storage, and is performed by the device with data received from the storage device. The transfer of data is independent of",0.9715244909062404,0.519390161292699,Normal,NEGATIVE,1.5667935786359224,0.0,41.281574127692565,110.47007196437114,0.0,3.2201453149571533,Threat
+1,0.2361793789121386,1.0112077925714222,0.6901488700529511,0.09177563858086088,0.0,"User session extended. The default is to block the connection until the server exits. --reject-polarity ""polarity"" Specifies whether the server should reject all calls by servers in the same region from participating in the session (default",1.0848502506857043,0.49356330337497634,Normal,NEGATIVE,2.542944557191383,1.0960629149204695,30.57984589728391,62.35196934365332,0.3977640659460506,4.852206747731339,Threat
+1,0.24677859417299536,1.0326864619018667,0.7549165469613448,0.09571646947676664,0.0,User session extended.,0.9784665902452692,0.4758830323847854,Normal,NEGATIVE,2.2633544303317596,1.0546664548287672,30.958531106856853,59.93532853982592,0.3775704232350637,5.459442525062713,Threat

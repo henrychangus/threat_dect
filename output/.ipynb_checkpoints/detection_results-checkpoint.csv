@@ -1,0 +1,39 @@
+user_id,login_attempts,failed_login_attempts,session_duration,data_transferred,access_sensitive_files,log_text,anomaly,anomaly_score,anomaly_label,classification,login_attempts_agg,failed_login_attempts_agg,session_duration_agg,data_transferred_agg,access_sensitive_files_agg,count,threat_detection
+1,0.75,1.0,0.25,0.1999999999999999,1.0,User downloaded sensitive files.,1.0,0.4375,Normal,NEGATIVE,1.8571428571428572,1.0,21.714285714285715,47.22857142857143,0.4285714285714286,7.0,Threat
+2,0.25,1.0,0.5,0.8,1.0,User session timed out.,1.0,0.4548675092078867,Normal,NEGATIVE,1.0833333333333333,0.5,20.333333333333336,63.93333333333334,1.0,6.0,Threat
+1,0.25,1.0,0.75,0.1,0.0,User session extended.,1.0,0.4980155009947376,Normal,NEGATIVE,1.8571428571428572,1.0,21.714285714285715,47.22857142857143,0.4285714285714286,7.0,Threat
+1,0.8131468012413298,0.9990702074258346,0.2384553066182699,0.2015718346010514,0.9442448417758986,"User downloaded sensitive files. So, if an update that removes a bug from Chrome's built-in bug catcher (which is included in nearly all Chromebooks) deletes the offending file, you won't be able to see the bug, but it",1.0245623477213404,0.4418384312336086,Normal,NEGATIVE,1.861421681407901,1.098483871210789,20.929561501557476,47.80704678009347,0.4291491112926389,6.706272656087928,Threat
+1,0.7214499015999951,1.0046943471736267,0.2537511111141163,0.1878065628286071,1.0047988488981208,"User downloaded sensitive files.
+
+1:30 p.m. ET
+
+VIPs of the United Nations Security Council are calling for an emergency UN Security Council meeting to address a security breach that was exposed in the leaked documents.
+
+",1.0987436305323577,0.4455536879543835,Normal,NEGATIVE,1.7688524482656751,1.0252035679072335,21.521860319052692,46.92664127731406,0.4421182700665711,6.306056534061685,Threat
+2,0.2677579899492042,1.013177184122644,0.5389121624308525,0.8369008697998871,1.08767687584558,"User session timed out.
+
+The application can timeout the session, in which case:
+
+The session is considered expired, e.g., you cannot send emails.
+
+The system tries again to create the session, and it succeeds if",1.058078870949353,0.4865595893636449,Normal,NEGATIVE,1.117866171373593,0.538840432150163,20.826170548932513,69.73290488144544,0.9483679797741076,6.22487572399999,Threat
+2,0.2631877122911477,1.09224644183324,0.4652742865445883,0.8795904283927556,0.9034447922647711,"User session timed out.
+
+[8/27/2013 5:43:56 PM] *** Update log *** [8/27/2013 9:18:36 PM] *** Update log *** [8/27/2013 12:41",0.918915511797474,0.4431931580720846,Normal,NEGATIVE,1.1120204554415478,0.5175447248538549,19.80362128693105,61.632012938318454,1.0392031673742277,6.0689767063145865,Threat
+3,0.4619698977804275,0.0,0.0,0.6245685048836244,0.0,"User transferred data to external device.
+
+Excessive loading of other browser tabs or other browsers.
+
+Download or install unauthorized software.
+
+Other browser related issues may be displayed when you attempt to use this service.
+
+Note: If",1.0074720402951074,0.4686906652435321,Normal,NEGATIVE,1.2965927064902023,0.0,29.12295221633488,78.06238752988982,0.0,4.109071685241792,Threat
+1,0.2434324182986268,0.9111677922354824,0.6938536320001562,0.0944475533010901,0.0,"User session extended. We also now allow the use of a different user ID when connecting to the app to avoid confusion when a password for the same user is used.
+
+1.13 This release includes bug fixes and general improvements, including a new",0.9438708683467886,0.4623686167527863,Normal,NEGATIVE,1.9076733168144484,1.0343320672606424,21.19327645393875,49.53842448427407,0.4551443302389977,7.067208207091156,Threat
+1,0.2367830283171496,0.9508838418781576,0.8141529353398362,0.1015401799809669,0.0,"User session extended. The function call would fail.
+
+We had to change the code to handle the request properly. The following code is the original code and it now handles the request:
+
+function acceptRequest(req, res, next)",1.0628386203763391,0.4994364295297049,Normal,NEGATIVE,1.7105274669942714,0.9704611580927228,21.06409987558623,51.74910954597969,0.415245746963567,7.3244270018111965,Threat

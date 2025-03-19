@@ -1,0 +1,169 @@
+user_id,login_attempts,failed_login_attempts,session_duration,data_transferred,access_sensitive_files,log_text,anomaly,anomaly_score,anomaly_label,classification,login_attempts_agg,failed_login_attempts_agg,session_duration_agg,data_transferred_agg,access_sensitive_files_agg,count,threat_detection
+1,0.75,1.0,0.25,0.1999999999999999,1.0,User downloaded sensitive files.,1.0,0.4375,Normal,NEGATIVE,2.4,1.0,30.2,66.06,0.4,5.0,Threat
+2,0.25,1.0,0.5,0.8,1.0,User session timed out.,1.0,0.4548675092078867,Normal,NEGATIVE,1.4375,0.5,30.250000000000004,95.45,1.0,4.0,Threat
+1,0.25,1.0,0.75,0.1,0.0,User session extended.,1.0,0.4980155009947376,Normal,NEGATIVE,2.4,1.0,30.2,66.06,0.4,5.0,Threat
+2,0.4917796134312023,0.0,0.4921342825211794,1.0050052667908298,1.0815088866007476,User attempted to login multiple times. Login: uid=76561198011668563 type=UID lvUserId=2097155437 mode=RANDOM attr=userInfoNoData 17-9-19 16:,1.01593940117691,0.4849667885060465,Normal,NEGATIVE,1.4781951418490058,0.5158814611524675,28.145199966847727,103.2507304492051,0.998446788052452,3.636160125921447,Threat
+1,0.6852732386536123,0.974511241502782,0.2261087176143749,0.1958834527972366,0.9588002638327168,"User downloaded sensitive files.
+
+
+1. You received an alert by an ad-blocking application indicating that an alert has been sent to you about malware downloading activities in your area. This warning requires that you confirm your confirmation of the transaction. The transaction",1.0611613032191254,0.4495310187814054,Normal,NEGATIVE,2.183358127610224,1.0535375068606434,30.70233755944602,64.2957242560943,0.4272612018039163,4.865129108469921,Threat
+1,0.7328707986135806,1.08825502510647,0.2398349177682623,0.193015561954044,0.993341652762728,"User downloaded sensitive files.
+
+File Name Length Date Access
+
+(?) File Name Length Date Access
+
+(?) File Name Length Date Access
+
+(?) File Name Length Date Access
+
+(?) File Name Length
+
+1/",1.0435400754281747,0.4271427837812187,Normal,NEGATIVE,2.2271878991577476,0.913601389559086,29.146921179652853,67.59600045936699,0.409436951230494,5.251818184130644,Threat
+2,0.2527079386858996,1.0282292682130447,0.4992516231415808,0.8655104593697669,0.9749221400640724,"User session timed out.
+
+{A1C5D5D2-E9A7-11D2-8BB7-00A0C923B87F} in the system account is currently logged into the machine",0.9007520338208856,0.4938259084527798,Normal,NEGATIVE,1.2969486817066602,0.4767563008115819,32.81242226896401,101.60964318911616,0.9618850441384204,4.01032550412216,Threat
+2,0.2548369131913447,0.9358967299756084,0.4764063120330795,0.7607603433475228,1.028112895956603,"User session timed out.
+
+Error messages
+
+Get the previous status of the given user session. The user session had an error setting that was the original. See this post on the forums for more details on how to recreate a lost or restored",0.952981913402858,0.4227591300429151,Normal,NEGATIVE,1.5494715267600254,0.4644498951236925,32.786083843722295,95.06323169564916,1.0084308770581487,4.164030636128268,Threat
+3,0.4878470847212306,0.0,0.0,0.578372937060001,0.0,"User transferred data to external device.
+
+When the user's iOS device's microphone detects a request, the system immediately transfers the user's microphone information to the external device and displays it on the user's display screen (if the device has a similar",0.9388346634059872,0.4658905267696018,Normal,NEGATIVE,1.5953974337821346,0.0,37.75295534798606,100.43028243186464,0.0,3.012219460536205,Threat
+1,0.2678029499950726,1.0241080765809354,0.7971515926036845,0.098858793160983,0.0,"User session extended.
+
+(defmethod call-with-user-session (arg) (setq session (session->user-session arg)) (user-session-write-string (make-string) (progn (or (",0.9460906761555656,0.4533428342043212,Normal,NEGATIVE,2.581370451988778,1.0876938356198411,33.17221655209726,60.80333346326796,0.4107220560388672,4.624063021326665,Threat
+1,0.75,1.0,0.25,0.1999999999999999,1.0,User downloaded sensitive files.,1.0,0.4375,Normal,NEGATIVE,2.4,1.0,30.2,66.06,0.4,5.0,Threat
+2,0.25,1.0,0.5,0.8,1.0,User session timed out.,1.0,0.4548675092078867,Normal,NEGATIVE,1.4375,0.5,30.250000000000004,95.45,1.0,4.0,Threat
+1,0.25,1.0,0.75,0.1,0.0,User session extended.,1.0,0.4980155009947376,Normal,NEGATIVE,2.4,1.0,30.2,66.06,0.4,5.0,Threat
+1,0.6766009202698393,1.0428495868372154,0.2561398276020595,0.2056177747799868,1.0053601515648571,"User downloaded sensitive files.
+
+As is well known, the file-sharing networks of the web are often accessed through anonymizing proxies like TOR. So, if it's downloaded from this particular proxy, Tor won't be able to determine the true",0.919330582492306,0.444241635532202,Normal,NEGATIVE,2.2823086083934574,1.0671680350018222,28.78571063327842,64.61945653340965,0.381204953600771,5.1344129886058205,Threat
+1,0.7720287051980075,0.9077390362527176,0.2339588714091659,0.1978794454946361,0.9515556798759977,"User downloaded sensitive files.
+
+The FBI also claims (but does not specify) that the servers in Russia in the case of both DNC and Podesta accounts were infected by the Russian government.
+
+Criminal investigators are now looking more closely at the",0.9289236166684686,0.465567333273807,Normal,NEGATIVE,2.563361701786286,0.994824062209888,28.705083865945127,67.10361922546659,0.410692044580684,4.9701598615733875,Threat
+2,0.2654216033536711,1.032589252674425,0.5103136824495891,0.8161773868788258,0.943636362899762,"User session timed out.
+
+# Do something
+
+# Do work
+
+# Run a new instance of PowerShell (requires the same environment as the previous one that was interrupted)
+
+Get-PSSession -SessionName "" SessionName """,1.0427078788846849,0.4984969331824329,Normal,NEGATIVE,1.401592973732968,0.5168240069196849,28.698445464168167,86.55866293265765,1.0054686709024436,3.6401957647591776,Threat
+2,0.2448558065713515,0.9832763817421644,0.5163628665345137,0.8773158884663982,1.078727813543447,"User session timed out.
+
+The result:
+
+What? If the client has timed out during the transfer, what should the server do now? What about if the client tries to transfer files that are too small to be transmitted in a reasonable",1.0551004111491638,0.489359758708568,Normal,NEGATIVE,1.568137837569221,0.5220715680537398,31.6859091682368,95.96722278257812,1.0452172127872408,3.9700868914041254,Threat
+1,0.2316448362607337,1.0825713224305185,0.7030068782816854,0.0958209940336895,0.0,"User session extended.
+
+* Fixed a crash when switching between sessions.
+
+* Fixed an issue where a user could accidentally close the application.
+
+* Fixed an issue that prevented the application from quitting.
+
+* The lock key can",0.9201661971601536,0.4900303661226113,Normal,NEGATIVE,2.238927031350289,1.079389110386893,32.24456481165797,66.34476899203159,0.3802051387714207,4.871760206892293,Threat
+1,0.75,1.0,0.25,0.1999999999999999,1.0,User downloaded sensitive files.,1.0,0.4375,Normal,NEGATIVE,2.4,1.0,30.2,66.06,0.4,5.0,Threat
+2,0.25,1.0,0.5,0.8,1.0,User session timed out.,1.0,0.4548675092078867,Normal,NEGATIVE,1.4375,0.5,30.250000000000004,95.45,1.0,4.0,Threat
+1,0.25,1.0,0.75,0.1,0.0,User session extended.,1.0,0.4980155009947376,Normal,NEGATIVE,2.4,1.0,30.2,66.06,0.4,5.0,Threat
+1,0.781727460752079,1.0212671428938196,0.2592459977879127,0.1866057176151688,0.990434333349392,"User downloaded sensitive files.
+
+C:\WINDOWS\system32
+
+tries to run C:\Windows\System32\adapter0.dll.
+
+C:\WINDOWS\system32\Adpf\ADPf.exe",0.962831039985842,0.4496509001834579,Normal,NEGATIVE,2.529330645753619,0.90506488884656,28.26757600769392,70.62502281535203,0.3878842959983893,5.190112494029923,Threat
+1,0.8117702983973203,1.0989844196472187,0.263250456553048,0.2069225943166127,1.0959189851273674,"User downloaded sensitive files. -S (Shared data, is in fact the full files with personal information as well) -v Use verbose mode. -C (Caution: Do not change this value if you are on Unix systems. Change",0.9889358337585156,0.4141471159383861,Normal,NEGATIVE,2.205081940271649,1.030514249460283,27.21944042981995,71.27089654768591,0.4280057352995263,5.18248495955612,Threat
+2,0.2348474829526809,1.0297401294063468,0.4909340660707944,0.7807520248192593,0.9675673512526444,"User session timed out.
+
+Error: No session is in a session group at this session level.
+
+Error: An invalid parameter was provided to the service initialization procedure when a session was configured.
+
+Sessions are typically managed by application",0.9567522979600894,0.4379258698663481,Normal,NEGATIVE,1.3986432960836552,0.5450327926076919,31.58139016183406,91.02387359282676,1.076170344088447,4.272160546981819,Threat
+2,0.248050732940699,0.9538817266569573,0.5218685483621938,0.8517247283111044,1.012917628501826,"User session timed out. May be caused by other processes closing tabs, closing files)
+
+[3/3] Fixed some performance issues with the Tabbar (Tabbed view does not properly scale the window in full screen mode)
+
+[",1.035817099392761,0.4728428406505406,Normal,NEGATIVE,1.4241260469654982,0.4573873416818083,30.755704291160868,98.00324718742752,1.061208614845949,3.9640732646954904,Threat
+3,0.5040991243814514,0.0,0.0,0.5927090091141347,0.0,"User transferred data to external device.
+
+If the user is not logged into his or her Twitter account, a Twitter login prompt occurs. If the user is logged into Facebook, a Facebook login prompt occurs with the confirmation dialog box set in place.",0.9461695928892844,0.4646573283202626,Normal,NEGATIVE,1.4629218649835478,0.0,40.445531797309144,93.56440521226727,0.0,3.2844888972662334,Threat
+1,0.2250423369132275,0.9187231715269876,0.749696492214387,0.1086509488056573,0.0,"User session extended. When the web browser initializes, its session will be extended with the local web views and other components. After the web session is extended, any JavaScript and scripts run while the web browser is active are automatically hidden from the original session",0.970218380264065,0.4973863188812153,Normal,NEGATIVE,2.4387110373413954,1.0862666164507628,28.053657399228996,72.34240031014981,0.437118485900383,4.743719894961646,Threat
+1,0.2333662481382156,1.0138069746571567,0.7666439396076212,0.096544640939502,0.0,"User session extended.
+
+*/
+
+public boolean canConnectFromPuppet
+
+{
+
+
+if ( PuppetApplication. isConnectedToPuppet ( "" web "" ))
+
+{
+
+return true ;
+
+}
+
+
+",0.9926403169305388,0.4586845045121303,Normal,NEGATIVE,2.578929198668104,0.9679516148454352,32.28971161342314,63.1338006749507,0.3627860790371158,4.6813944604725215,Threat
+1,0.75,1.0,0.25,0.1999999999999999,1.0,User downloaded sensitive files.,1.0,0.4474677388346937,Normal,NEGATIVE,2.4,1.0,30.2,66.06,0.4,5.0,Threat
+2,0.25,1.0,0.5,0.8,1.0,User session timed out.,1.0,0.47478683751399,Normal,NEGATIVE,1.4375,0.5,30.250000000000004,95.45,1.0,4.0,Threat
+1,0.25,1.0,0.75,0.1,0.0,User session extended.,1.0,0.493850554680994,Normal,NEGATIVE,2.4,1.0,30.2,66.06,0.4,5.0,Threat
+2,0.4915743717596259,0.0,0.4577096424239814,1.0317185018490471,1.0178890672591052,"User attempted to login multiple times. Error code: -1327782469 (Invalid user password)
+
+Login Failed
+
+Forgot Password
+
+Error code -1327804871 (Invalid user password or invalid password)
+
+",0.9605023413694392,0.494068334883014,Normal,NEGATIVE,1.523653212627652,0.5452438030714425,28.916026505564183,95.55452450737802,0.9390462451594584,4.347810432273918,Threat
+1,0.7325502031658769,1.08778989525891,0.255418631849141,0.1857960538545184,1.078333504884461,"User downloaded sensitive files.
+
+No malware
+
+No data lost through corruption
+
+Easy way to backup your settings and other data
+
+Supports USB keyless entry (FUSE)
+
+Compatible with any Windows 10 PC or Mac",0.956701244612639,0.4648539867639966,Normal,NEGATIVE,2.1854379702571074,1.0367032259430222,27.63979968441565,66.40052007679051,0.3943193915546692,5.126290191994047,Threat
+1,0.728163173866457,0.972240892704563,0.2501408404312297,0.1888382193146502,1.0579925648107122,"User downloaded sensitive files.
+
+You will see that not all security warnings are shown. However, the warning will be generated for files that have been copied through a system file and you need to go to the location where the file has been stored again",1.0819084493258635,0.4915246206772636,Normal,NEGATIVE,2.5790158002633454,0.966184933995089,30.854781193243344,68.2749826504484,0.3740504073324478,4.789955526596376,Threat
+1,0.2541664103977014,1.0734326572581312,0.6884657744822054,0.1081559860687032,0.0,User session extended. This is because the user's session has been expired prior to this time and it needs to be extended for the user to be able to connect to your site for the user session to be valid. Your custom user template can be used,0.9258676993183816,0.4719191474120763,Normal,NEGATIVE,2.480434762673417,1.0308556193145832,29.91195245624878,59.827147152553245,0.4012231602794306,5.020941670167845,Threat
+1,0.2734903768505407,1.013336250855941,0.7590442905807637,0.1098315056120071,0.0,"User session extended.
+
+This means that this option may be disabled or never enabled altogether.
+
+Example:
+
+/etc/default/apt-config
+
+APT_TUNING=http
+
+This is the default type",0.946541665664035,0.4808900475806349,Normal,NEGATIVE,2.19280331281385,1.0702212886904203,30.496570721327902,66.97065199124411,0.4395048516155522,5.016367520335648,Threat
+1,0.75,1.0,0.25,0.1999999999999999,1.0,User downloaded sensitive files.,1.0,0.4383835188437121,Normal,NEGATIVE,2.4,1.0,30.2,66.06,0.4,5.0,Threat
+2,0.25,1.0,0.5,0.8,1.0,User session timed out.,1.0,0.4596985761155207,Normal,NEGATIVE,1.4375,0.5,30.250000000000004,95.45,1.0,4.0,Threat
+1,0.25,1.0,0.75,0.1,0.0,User session extended.,1.0,0.4889201982451419,Normal,NEGATIVE,2.4,1.0,30.2,66.06,0.4,5.0,Threat
+2,0.4829241878741931,0.0,0.5261716251779675,0.9458634326313916,0.9126398469189296,"User attempted to login multiple times. Failed and logged out.
+
+A ""Server Error"" event was generated and sent out during authentication process. If you attempt to log back in after this event, your session will be closed. The system will provide",0.9820239006033012,0.4952178845583573,Normal,NEGATIVE,1.484162769919173,0.4692076034248609,29.394845917814106,92.7569888475614,1.0923249522046905,3.7764107283211152,Threat
+1,0.8001078914953593,1.0088374638583089,0.235677289792606,0.1988924483442804,1.076064581279135,"User downloaded sensitive files.
+
+If both versions of the malicious program are installed on the same machine to the same user, the attack will not result in an additional infection because the first version of the application will be removed after the other is removed,",0.9079419594607592,0.4593581336287976,Normal,NEGATIVE,2.205297681981788,1.0193695721986844,28.523811947472577,67.40505083821884,0.3767610056661299,4.529493009630868,Threat
+1,0.7895654344678161,1.048224758216887,0.2301729618934588,0.1974855092615847,0.9412414579480722,User downloaded sensitive files. This can be accomplished through using the File Transfer Protocol (FTP) to transfer files while having the remote computer be controlled from an outside computer using a standard home keyboard. Once the user connects the remote computer without the need of,1.0803678940314418,0.4347049847356585,Normal,NEGATIVE,2.34736775834098,1.017480821291653,29.43315057424841,67.74588130241628,0.3770586221007801,5.2713960131526925,Threat
+2,0.2408516068881028,1.0536449463751163,0.538546266980959,0.8167367563090884,0.9943678099058554,"User session timed out.
+
+It seems to have taken a while for things to come together, though. The update has now been pushed to our servers and will be deployed shortly to those who have already installed it. We will provide an update as",0.9986988168347743,0.4854282356451265,Normal,NEGATIVE,1.5132520711591135,0.5430754356183481,28.829329640999195,96.14440266846005,1.045884543715354,4.18382745042492,Threat
+1,0.2361793789121386,1.0112077925714222,0.6901488700529511,0.0917756385808608,0.0,"User session extended. The default is to block the connection until the server exits. --reject-polarity ""polarity"" Specifies whether the server should reject all calls by servers in the same region from participating in the session (default",1.0848502506857045,0.4935633033749763,Normal,NEGATIVE,2.542944557191383,1.0960629149204697,30.57984589728391,62.35196934365332,0.3977640659460506,4.852206747731339,Threat
+1,0.2467785941729953,1.0326864619018667,0.7549165469613448,0.0957164694767666,0.0,User session extended.,0.9784665902452692,0.4758830323847854,Normal,NEGATIVE,2.2633544303317596,1.0546664548287672,30.958531106856853,59.93532853982592,0.3775704232350637,5.459442525062713,Threat
